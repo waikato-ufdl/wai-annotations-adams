@@ -1,6 +1,10 @@
 # wai-annotations-adams
 wai.annotations module for ADAMS-related formats.
 
+The manual is available here:
+
+https://ufdl.cms.waikato.ac.nz/wai-annotations-manual/
+
 ## Plugins
 ### FROM-ADAMS-IC
 Reads image classification annotations in the ADAMS report-format
